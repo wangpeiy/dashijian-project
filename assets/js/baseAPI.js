@@ -27,6 +27,57 @@ $.ajaxPrefilter((option) => {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123
+123 */
+
+
   //   if (option.url.indexOf("/my/")) {
 //     option.headers = {
 //       Authorization: localStorage.getItem("token"),
