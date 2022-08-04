@@ -1,5 +1,5 @@
 // 获取用户基本信息
-function getUserInfo () {
+function getUserInfo() {
   $.ajax({
     type: "GET",
     url: "/my/userinfo",
@@ -24,6 +24,9 @@ function getUserInfo () {
     // },
   });
 };
+
+
+
 
 // 渲染用户头像
 const renderAvatar = (user) => {
@@ -59,4 +62,5 @@ $("#btnLogout").click(() => {
 });
 
 // 调用 getUserInfo 函数获取用户基本信息
+
 getUserInfo();
